@@ -1,0 +1,79 @@
+ 
+    body{
+        background-color: antiquewhite;
+        text-align:center;
+        
+    }
+    .bg{
+        background-image: url("The website/.jpg.jpg");
+        height: 100%;
+        background-position: center;
+        background-repeat: repeat;
+        background-size: cover;
+    }
+    h1{
+        color:lightgray;
+    }
+    p{
+        color:darkgoldenrod;
+    }
+    img{
+        width:600px;
+    }
+    
+
+   .button {
+  background-color: #4CAF50; /* orange */
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: orange; 
+  color: black; 
+  border: 2px solid #4CAF50;
+}
+
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+    }
+    .writing{
+        width:50%;
+        border:1px solid black;
+        margin:auto;
+        background-color: azure;
+        opacity: 0.6;
+    
+    }
+    .headbtn{
+        position: absolute;
+        left:50px;
+        
+    }
+    
+.tonytran{
+    left:0;
+    top:200px;
+    width:100%;
+    min-width: 1000px;
+    min-height: 225px;
+    position: absolute;
+    z-index: 0;
+    background-color: skyblue;
+    opacity: 0.6;
+    
+
+}
+.container{
+    
+    
+}
